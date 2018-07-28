@@ -1,0 +1,22 @@
+{
+  "name": "jsdoc-learn",
+  "version": "1.0.0",
+  "description": "learn JSDoc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azat74/jsdoc-learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azat74/jsdoc-learn/issues"
+  },
+  "homepage": "https://github.com/Azat74/jsdoc-learn#readme",
+  "devDependencies": {
+    "jsdoc": "^3.5.5"
+  }
+}
